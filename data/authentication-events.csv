@@ -1,0 +1,6 @@
+TimeCreated,MachineName,Id,EventDescription,RecordId,Message
+2024-01-15T09:00:00Z,endpoint-lab-01,4624,Successful logon,1001,Bounded workflow record
+2024-01-15T09:02:00Z,endpoint-lab-01,4625,Failed logon,1002,Bounded workflow record
+2024-01-15T09:03:00Z,endpoint-lab-01,4625,Failed logon,1003,Bounded workflow record
+2024-01-15T09:04:00Z,endpoint-lab-01,4740,Account lockout,1004,Bounded workflow record
+2024-01-15T09:06:00Z,endpoint-lab-01,4624,Successful logon,1005,Bounded workflow record
